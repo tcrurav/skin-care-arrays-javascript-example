@@ -2,7 +2,7 @@
 
 It's just that. A simple example on how to work with Arrays in JavaScript.
 
-IMPORTANT: This project has no CSS. It's just a barebone example on how to work with arrays in JavaScript.
+```IMPORTANT```: This project has no CSS. It's just a barebone example on how to work with arrays in JavaScript.
 
 ## Getting Started
 
